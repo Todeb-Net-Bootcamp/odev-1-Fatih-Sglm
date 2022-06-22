@@ -2,4 +2,4 @@
 1. Hafta Ödevleri
 
 APi Projesi Master Branch Kısmında 
-Postman Collection Ödevi Main Branck Kısmında bulunmaktadır
+Postman Collection Ödevi Main Branch Kısmında bulunmaktadır
